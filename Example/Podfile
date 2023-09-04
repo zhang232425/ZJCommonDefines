@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'ZJCommonDefines_Example' do
+  pod 'ZJCommonDefines', :path => '../'
+
+  target 'ZJCommonDefines_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
