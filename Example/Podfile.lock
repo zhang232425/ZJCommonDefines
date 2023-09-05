@@ -1,0 +1,16 @@
+PODS:
+  - ZJCommonDefines (0.1.0)
+
+DEPENDENCIES:
+  - ZJCommonDefines (from `../`)
+
+EXTERNAL SOURCES:
+  ZJCommonDefines:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZJCommonDefines: bb5fb73c545c95850b7e398bf58752d394229c03
+
+PODFILE CHECKSUM: 4d0068d758fb871439cad03b7ff2a54bb2ee768e
+
+COCOAPODS: 1.11.2

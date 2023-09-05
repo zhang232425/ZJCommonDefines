@@ -1,0 +1,6 @@
+framework module Pods_ZJCommonDefines_Example {
+  umbrella header "Pods-ZJCommonDefines_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
